@@ -1,4 +1,4 @@
-  <img align="left" height="130" style="border-radius:50px;" src="https://user-images.githubusercontent.com/92352134/156426629-90c4bce2-7de7-4a34-a7e7-ac4208a5f320.png"  width="120px"/> 
+  <img align="left" height="130" style="border-radius:50px;" src="https://user-images.githubusercontent.com/92352134/156427006-dd0758d3-019c-44d0-8761-86a9fbbf7612.png"  width="120px"/> 
 
   <h1 align="left">Olá!ﾠ<img src="https://user-images.githubusercontent.com/92352134/156424558-74536040-ac78-4c28-8d83-bf965e3dfb1a.gif" width="30px">
   <p><p> Bem vinde ao meu GitHub!ﾠAceita um café?<br><br></p></h1>
