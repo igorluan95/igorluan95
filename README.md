@@ -20,7 +20,7 @@ Durante o bootcamp da Generation adquiri conhecimento técnico para realizar apl
 [![Swagger](https://img.shields.io/badge/-Swagger-white?style=flat&logo=Swagger&logoColor=6DB33F&https://github.com/igorluan95)](https://www.linkedin.com/in/igorluan95/)
 [![Heroku](https://img.shields.io/badge/-Heroku-white?style=flat&logo=Heroku&logoColor=430098&https://github.com/igorluan95)](https://www.linkedin.com/in/igorluan95/)
 
-##### Tecnologias que utilizo no Front-end:
+#### Tecnologias que utilizo no Front-end:
 [![VSCode](https://img.shields.io/badge/-VSCode-white?style=flat&logo=visualstudiocode&logoColor=007ACC&https://github.com/igorluan95)](https://www.linkedin.com/in/igorluan95/)
 [![Angular](https://img.shields.io/badge/-AngularJS-white?style=flat&logo=Angular&logoColor=DD0031&https://github.com/igorluan95)](https://www.linkedin.com/in/igorluan95/)
 [![HTML5](https://img.shields.io/badge/-HTML5-white?style=flat&logo=html5&logoColor=E34F26&https://github.com/igorluan95)](https://www.linkedin.com/in/igorluan95/)
@@ -30,7 +30,7 @@ Durante o bootcamp da Generation adquiri conhecimento técnico para realizar apl
 [![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat&logo=javascript&logoColor=DAA520&https://github.com/igorluan95)](https://www.linkedin.com/in/igorluan95/)
 [![Netlify](https://img.shields.io/badge/-Netlify-white?style=flat&logo=netlify&logoColor=00C7B7&https://github.com/igorluan95)](https://www.linkedin.com/in/igorluan95/)
 
-##### Tecnologias que utilizo para versionamento:
+#### Tecnologias que utilizo para versionamento:
 [![Git](https://img.shields.io/badge/-Git-white?style=flat&logo=Git&logoColor=F05032&https://github.com/igorluan95)](https://www.linkedin.com/in/igorluan95/)
 
 ##
