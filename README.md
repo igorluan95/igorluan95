@@ -25,7 +25,7 @@ Durante o bootcamp da Generation adquiri conhecimento técnico para realizar apl
 [![Angular](https://img.shields.io/badge/-AngularJS-white?style=flat&logo=Angular&logoColor=DD0031&https://github.com/igorluan95)](https://www.linkedin.com/in/igorluan95/)
 [![HTML5](https://img.shields.io/badge/-HTML5-white?style=flat&logo=html5&logoColor=E34F26&https://github.com/igorluan95)](https://www.linkedin.com/in/igorluan95/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-white?style=flat&logo=Bootstrap&logoColor=7952B3&https://github.com/igorluan95)](https://www.linkedin.com/in/igorluan95/)
-[![CSS3](https://img.shields.io/badge/-CSS-white?style=flat&logo=css3&logoColor=1572B6&https://github.com/igorluan95)](https://www.linkedin.com/in/igorluan95/)
+[![CSS3](https://img.shields.io/badge/-CSS3-white?style=flat&logo=css3&logoColor=1572B6&https://github.com/igorluan95)](https://www.linkedin.com/in/igorluan95/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript&https://github.com/igorluan95)](https://www.linkedin.com/in/igorluan95/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat&logo=javascript&logoColor=DAA520&https://github.com/igorluan95)](https://www.linkedin.com/in/igorluan95/)
 [![Netlify](https://img.shields.io/badge/-Netlify-white?style=flat&logo=netlify&logoColor=00C7B7&https://github.com/igorluan95)](https://www.linkedin.com/in/igorluan95/)
@@ -34,6 +34,15 @@ Durante o bootcamp da Generation adquiri conhecimento técnico para realizar apl
 [![Git](https://img.shields.io/badge/-Git-white?style=flat&logo=Git&logoColor=F05032&https://github.com/igorluan95)](https://www.linkedin.com/in/igorluan95/)
 
 ##
+
+#### Alguns dados dos meus repositórios:
+  <div align="center">
+     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=igorluan95&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>    
+     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorluan95&layout=compact&langs_count=7&theme=dark"/>
+  </div>
+
+##
+
 ###### Obs: ao clicar nos badges será redirecionado(a) para meu LinkedIn.
 
   
