@@ -3,7 +3,7 @@ Sou um Desenvolvedor Web Java Júnior formado pela <a href = "https://brazil.gen
 Durante o bootcamp da Generation adquiri conhecimento técnico para realizar aplicações fullstack e, além disso, aprimorei habilidades comportamentais essenciais para o ingresso no mercado de trabalho, como a comunicação, a orientação ao detalhe, a proatividade e o trabalho em equipe.
 
  
-##### Meus contatos:
+#### Meus contatos:
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-008000?style=flat&logo=WhatsApp&logoColor=white&https://github.com/igorluan95)](https://api.whatsapp.com/send?phone=5511957110269)
 [![Gmail](https://img.shields.io/badge/-Gmail-C4302B?style=flat&logo=Gmail&logoColor=white&https://github.com/igorluan95)](mailto:igorluansouzasilva@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white&https://github.com/igorluan95)](https://www.linkedin.com/in/igorluan95/)
