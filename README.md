@@ -7,7 +7,6 @@ Durante o bootcamp da Generation adquiri conhecimento técnico para realizar apl
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-008000?style=flat&logo=WhatsApp&logoColor=white&https://github.com/igorluan95)](https://api.whatsapp.com/send?phone=5511957110269)
 [![Gmail](https://img.shields.io/badge/-Gmail-C4302B?style=flat&logo=Gmail&logoColor=white&https://github.com/igorluan95)](mailto:igorluansouzasilva@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white&https://github.com/igorluan95)](https://www.linkedin.com/in/igorluan95/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white&https://github.com/igorluan95)](https://github.com/igorluan95)
 
 ##
 
@@ -32,6 +31,7 @@ Durante o bootcamp da Generation adquiri conhecimento técnico para realizar apl
 
 #### Tecnologias que utilizo para versionamento:
 [![Git](https://img.shields.io/badge/-Git-white?style=flat&logo=Git&logoColor=F05032&https://github.com/igorluan95)](https://www.linkedin.com/in/igorluan95/)
+[![GitHub](https://img.shields.io/badge/-GitHub-white?style=flat&logo=GitHub&logoColor=181717&https://github.com/igorluan95)](https://github.com/igorluan95)
 
 ##
 
