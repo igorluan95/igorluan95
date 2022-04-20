@@ -1,4 +1,4 @@
-## Olá, mundo! Eu sou o Igor.   <img align="right" src="https://user-images.githubusercontent.com/92352134/156427006-dd0758d3-019c-44d0-8761-86a9fbbf7612.png"  width="200px"/> 
+## Olá, mundo! Eu sou o Igor.   <a href = "https://www.linkedin.com/in/igorluan95/"><img align="right" src="https://user-images.githubusercontent.com/92352134/156427006-dd0758d3-019c-44d0-8761-86a9fbbf7612.png"  width="200px"> </a> 
 Sou um Desenvolvedor Web Java Júnior formado pela <a href = "https://brazil.generation.org"> Generation Brasil,</a> tenho 26 anos, moro em São Paulo e estou em busca de uma oportunidade na área.<br><br>
 Durante o bootcamp da Generation adquiri conhecimento técnico para realizar aplicações fullstack e, além disso, aprimorei habilidades comportamentais essenciais para o ingresso no mercado de trabalho, como a comunicação, a orientação ao detalhe, a proatividade e o trabalho em equipe.
 
@@ -37,9 +37,12 @@ Durante o bootcamp da Generation adquiri conhecimento técnico para realizar apl
 
 #### Alguns dados dos meus repositórios:
   <div align="center">
-     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=igorluan95&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>    
-     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorluan95&layout=compact&langs_count=7&theme=white"/>
+ <a href = "https://www.linkedin.com/in/igorluan95/">
+     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=igorluan95&show_icons=true&theme=white&include_all_commits=true&count_private=true">    </a>
+ <a href = "https://www.linkedin.com/in/igorluan95/">
+     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorluan95&layout=compact&langs_count=7&theme=white">
   </div>
+ </a>
 
 ##
 
